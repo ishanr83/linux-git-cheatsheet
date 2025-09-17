@@ -45,3 +45,9 @@ Each entry shows: **What it does • Syntax • Example**
   ```bash
   cd /var/log
 
+### mkdir
+- **What it does:** Creates directories.
+- **Syntax:** `mkdir [-p] <dir>`
+- **Example:**
+  ```bash
+  mkdir -p projects/demo
