@@ -25,3 +25,9 @@ Each entry shows: **What it does • Syntax • Example**
 13. git branch
 14. git checkout (or git switch)
 15. git merge
+### pwd
+- **What it does:** Prints the current working directory.
+- **Syntax:** `pwd`
+- **Example:**
+  ```bash
+  pwd
