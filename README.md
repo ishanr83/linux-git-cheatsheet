@@ -51,3 +51,10 @@ Each entry shows: **What it does • Syntax • Example**
 - **Example:**
   ```bash
   mkdir -p projects/demo
+### touch
+- **What it does:** Creates an empty file or updates its timestamp.
+- **Syntax:** `touch <file>`
+- **Example:**
+  ```bash
+  touch notes.txt
+
