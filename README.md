@@ -115,3 +115,11 @@ Each entry shows: **What it does • Syntax • Example**
 - **Example:**
   ```bash
   git checkout -b feature/touch
+### git merge
+- **What it does:** Merges another branch into the current one.
+- **Syntax:** `git merge <branch>`
+- **Example:**
+  ```bash
+  git checkout main
+  git merge --no-ff feature/touch -m "Merge feature/touch into main"
+
