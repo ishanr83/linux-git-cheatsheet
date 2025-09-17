@@ -65,3 +65,9 @@ Each entry shows: **What it does • Syntax • Example**
   ```bash
   cp file.txt backup/file.txt
 
+### mv
+- **What it does:** Moves or renames files.
+- **Syntax:** `mv <source> <dest>`
+- **Example:**
+  ```bash
+  mv draft.md README.md
