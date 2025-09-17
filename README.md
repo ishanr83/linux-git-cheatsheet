@@ -89,3 +89,10 @@ Each entry shows: **What it does • Syntax • Example**
 - **Example:**
   ```bash
   git status
+### git add
+- **What it does:** Stages changes to be committed.
+- **Syntax:** `git add <file>` | `git add .`
+- **Example:**
+  ```bash
+  git add README.md
+
