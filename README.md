@@ -103,3 +103,9 @@ Each entry shows: **What it does • Syntax • Example**
   ```bash
   git commit -m "Add ls command section"
 
+### git branch
+- **What it does:** Lists/creates/deletes branches.
+- **Syntax:** `git branch` | `git branch <name>` | `git branch -d <name>`
+- **Example:**
+  ```bash
+  git branch -a
