@@ -38,3 +38,10 @@ Each entry shows: **What it does • Syntax • Example**
 - **Example:**
   ```bash
   ls -la
+### cd
+- **What it does:** Changes the current directory.
+- **Syntax:** `cd <path>`
+- **Example:**
+  ```bash
+  cd /var/log
+
