@@ -31,3 +31,9 @@ Each entry shows: **What it does • Syntax • Example**
 - **Example:**
   ```bash
   pwd
+### pwd
+- **What it does:** Prints the current working directory.
+- **Syntax:** `pwd`
+- **Example:**
+  ```bash
+  pwd
