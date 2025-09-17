@@ -83,3 +83,9 @@ Each entry shows: **What it does • Syntax • Example**
 - **Example:**
   ```bash
   git init
+### git status
+- **What it does:** Shows changed, staged, and untracked files.
+- **Syntax:** `git status`
+- **Example:**
+  ```bash
+  git status
