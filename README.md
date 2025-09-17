@@ -37,3 +37,9 @@ Each entry shows: **What it does • Syntax • Example**
 - **Example:**
   ```bash
   pwd
+### ls
+- **What it does:** Lists files and directories (use `-la` for long + hidden).
+- **Syntax:** `ls [options] [path]`
+- **Example:**
+  ```bash
+  ls -la
