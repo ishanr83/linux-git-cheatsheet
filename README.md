@@ -77,3 +77,9 @@ Each entry shows: **What it does • Syntax • Example**
 - **Example:**
   ```bash
   rm -rf build/
+### git init
+- **What it does:** Initializes a new Git repository in the current directory.
+- **Syntax:** `git init`
+- **Example:**
+  ```bash
+  git init
