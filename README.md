@@ -58,3 +58,10 @@ Each entry shows: **What it does • Syntax • Example**
   ```bash
   touch notes.txt
 
+### cp
+- **What it does:** Copies files or directories.
+- **Syntax:** `cp [options] <source> <dest>`
+- **Example:**
+  ```bash
+  cp file.txt backup/file.txt
+
