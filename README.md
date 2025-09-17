@@ -109,3 +109,9 @@ Each entry shows: **What it does • Syntax • Example**
 - **Example:**
   ```bash
   git branch -a
+### git checkout (or git switch)
+- **What it does:** Switches branches / creates and switches.
+- **Syntax:** `git checkout <branch>` | `git checkout -b <new>`
+- **Example:**
+  ```bash
+  git checkout -b feature/touch
