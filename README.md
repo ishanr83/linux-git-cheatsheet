@@ -96,3 +96,10 @@ Each entry shows: **What it does • Syntax • Example**
   ```bash
   git add README.md
 
+### git commit
+- **What it does:** Saves staged changes with a message.
+- **Syntax:** `git commit -m "message"`
+- **Example:**
+  ```bash
+  git commit -m "Add ls command section"
+
