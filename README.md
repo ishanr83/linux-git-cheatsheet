@@ -71,3 +71,9 @@ Each entry shows: **What it does • Syntax • Example**
 - **Example:**
   ```bash
   mv draft.md README.md
+### rm
+- **What it does:** Removes files or directories (careful).
+- **Syntax:** `rm [-rfi] <path>`
+- **Example:**
+  ```bash
+  rm -rf build/
